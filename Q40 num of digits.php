@@ -24,5 +24,5 @@ function countDigits($number) {
 // Test the function
 $number = 12345;
 echo "Number of digits in $number is: " . countDigits($number);
-echo("<br>This program is written by Prabhav Nasa<br>ERPID-0221BCA011");
+echo("<br>This program is written by Palak Messon");
 ?>
