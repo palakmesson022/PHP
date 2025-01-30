@@ -12,5 +12,5 @@
         echo "$year is not a leap year.";
     }
 
-    echo("<br>This program is written by Prabhav Nasa<br>ERPID-0221BCA011");
+    echo("<br>This program is written by Palak Messon");
 ?>
