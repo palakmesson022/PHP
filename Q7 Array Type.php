@@ -9,5 +9,5 @@
         "Blue" => "#0000ff");
     var_dump($color_codes);
     
-    echo("<br>This program is written by Prabhav Nasa<br>ERPID-0221BCA011");
+    echo("<br>This program is written by Palak Messon");
 ?>
