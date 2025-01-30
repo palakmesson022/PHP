@@ -17,5 +17,5 @@ function fibonacci($n) {
 $num = 10;  // You can change this value
 fibonacci($num);
 
-echo("<br>This program is written by Prabhav Nasa<br>ERPID-0221BCA011");
+echo("<br>This program is written by Palak Messon");
 ?>
