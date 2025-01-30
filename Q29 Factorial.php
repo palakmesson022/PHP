@@ -13,5 +13,5 @@ for ($i = 1; $i <= $number; $i++) {
 // Output the result
 echo "The factorial of " . $number . " is: " . $factorial;
 
-echo("<br>This program is written by Prabhav Nasa<br>ERPID-0221BCA011");
+echo("<br>This program is written by Palak Messon");
 ?>
